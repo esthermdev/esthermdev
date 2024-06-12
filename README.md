@@ -21,7 +21,7 @@ I like to play ultimate frisbee and love walks on the beach! 🥏🌊
 
 ## Get In Touch
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/esther-devadas-6ab90a20b) or [email](esmd258@gmail.com) me.
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/esther-devadas-6ab90a20b) or email me at (esmd258@gmail.com).
 
 ## Social Media
 
