@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a freelance software developer with a passion for creating innovative mobile and web applications. I'm looking to specialize in seamless navigation, efficient state management, robust data storage solutions, and intuitive design. My goal is to build applications that are not only functional but also provide an excellent user experience.
+I'm a freelance software developer with a passion for creating innovative mobile and web applications. I'm looking to specialize in seamless navigation, efficient state management, robust data storage solutions, and intuitive design. My goal is to build applications that are not only functional but also provide an excellent user experience. Open to any and all work opportunities out there!
 
 ### Fun Fact
 
