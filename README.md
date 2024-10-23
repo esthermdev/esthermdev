@@ -13,7 +13,7 @@ I like to play ultimate frisbee and love walks on the beach! 🥏🌊
 - **Mobile Development**: Crafting intuitive and responsive mobile applications using React Native.
 - **Web Development**: Developing dynamic and scalable web applications with modern frameworks and technologies like React.
 - **State Management**: Implementing efficient state management using Redux and other state management libraries.
-- **Data Storage**: Leveraging MongoDB / Firestore and other databases for reliable and secure data storage solutions.
+- **Data Storage**: Leveraging Firestore / Supabase and other databases for reliable and secure data storage solutions.
 
 ## My tech stack:
 
