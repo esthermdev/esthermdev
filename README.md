@@ -1,6 +1,6 @@
 ## Featured Project
 
-### 📱 [Maine Ultimate - Mobile App](https://github.com/esthermdev/tourneyapp-meu)
+### 📱 [Maine Ultimate - Mobile App](https://github.com/esthermdev/meu-app)
 
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://docs.expo.dev/)
